@@ -1,19 +1,20 @@
 {
     "version": 3,
     "settings": {
-        "pallete": [
-            {
-                "slug": "primary",
-                "color": "#228840",
-                "name": "Main Palette"
-            },
-            {
-                "slug": "secondary",
-                "color": "#881122",
-                "name": "Secondary Palette"
-            }
-        ]
-        
+        "color": {
+            "palette": [
+                {
+                    "slug": "primary",
+                    "color": "#116020",
+                    "name": "Main Palette"
+                },
+                {
+                    "slug": "secondary",
+                    "color": "#22aa60",
+                    "name": "Secondary Palette"
+                }
+            ]
+        }
     },
     "styles": {},
     "custom-templates": [],
