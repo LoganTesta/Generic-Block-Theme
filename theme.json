@@ -13,6 +13,17 @@
                     "color": "#22aa60",
                     "name": "Secondary Palette"
                 }
+            ],
+            "gradients": [
+                {
+                    "slug": "primary-to-secondary",
+                    "gradient": "linear-gradient(0deg, var(--wp--preset--color--primary), var(--wp--preset--color--secondary))",
+                    "name": "Priamry to Secondary"
+                }
+            
+            ],
+            "dutone": [
+            
             ]
         }
     },
