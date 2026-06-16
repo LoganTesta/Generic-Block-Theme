@@ -25,6 +25,20 @@
             "dutone": [
             
             ]
+        },
+        "typography": {
+            "fontFamilies": [ 
+                {
+                    "fontFamily": "Arial, sans-serif",
+                    "slug": "generic-font-family",
+                    "name" : "Generic Font Family"
+                }
+            ]
+        },
+        "layout": {
+            "contentSize": "1000px",
+            "wideSize": "1500px"
+            
         }
     },
     "styles": {},
