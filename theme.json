@@ -42,9 +42,9 @@
         },
         "blocks": {
             "core/heading": {
-                "slug": "secondary",
+                "slug": "tertiary",
                 "color": "#00cc00",
-                "name": "Secondary"
+                "name": "Tertiary"
                 
             }
         }
