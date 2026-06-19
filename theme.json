@@ -39,6 +39,14 @@
             "contentSize": "1000px",
             "wideSize": "1500px"
             
+        },
+        "blocks": {
+            "core/heading": {
+                "slug": "secondary",
+                "color": "#00cc00",
+                "name": "Secondary"
+                
+            }
         }
     },
     "custom": {
