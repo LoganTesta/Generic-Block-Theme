@@ -41,6 +41,10 @@
             
         }
     },
+    "custom": {
+       "spacing": "10px",
+       "extra-spacing": "20px"
+    },
     "styles": {},
     "custom-templates": [],
     "templateParts": [] 
