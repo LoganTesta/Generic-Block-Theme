@@ -12,6 +12,13 @@
             "title": "Footer"
         }
     ],
+    "customTemplates": [
+        {
+            "name": "page-about-us",
+            "title": "About us page",
+            "postTypes": [ "page", "post" ]
+        }
+    ],
     "settings": {
         "color": {
             "palette": [
