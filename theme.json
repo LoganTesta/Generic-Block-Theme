@@ -45,6 +45,12 @@
             "margin": "true",
             "units": "px, em, rem"
         },
+        "border": {
+            "width": true,
+            "style": true,
+            "color": true,
+            "radius": true            
+        },
         "blocks": {
             "core/heading": {
                 "slug": "tertiary",
