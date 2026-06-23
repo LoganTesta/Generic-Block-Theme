@@ -1,4 +1,5 @@
 {
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
     "version": 3,
     "templateParts": [
         {
@@ -11,6 +12,11 @@
             "area": "footer",
             "title": "Footer"
         }
+    ],
+    "patterns": [
+        "hero-banner-with-overlap-images",
+        "short-text-surrounded-by-round-images",
+        "mixed-shape-gallery"
     ],
     "customTemplates": [
         {
