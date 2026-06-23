@@ -58,6 +58,34 @@
                     "slug": "generic-font-family",
                     "name" : "Generic Font Family"
                 }
+            ],
+            "fontSizes": [
+                {
+                    "slug": "extra-small",
+                    "size": "10px",
+                    "name": "Extra small"
+                },
+                {
+                    "slug": "small",
+                    "size": "12px",
+                    "name": "Small"
+                },
+                {
+                    "slug": "medium",
+                    "size": "16px",
+                    "name": "Medium"
+                },
+                {
+                    "slug": "large",
+                    "size": "20px",
+                    "name": "Large"
+                },
+                {
+                    "slug": "extra-large",
+                    "size": "24px",
+                    "name": "Extra Large"
+                }
+
             ]
         },
         "layout": {
