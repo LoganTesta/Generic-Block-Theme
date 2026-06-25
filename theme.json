@@ -85,8 +85,8 @@
                     "size": "24px",
                     "name": "Extra Large"
                 }
-
-            ]
+            ],
+            "lineHeight": true
         },
         "layout": {
             "contentSize": "1000px",
