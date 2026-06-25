@@ -117,7 +117,26 @@
        "spacing": "10px",
        "extra-spacing": "20px"
     },
-    "styles": {},
+    "styles": {
+        "color": {
+            "background": "var(--wp--preset--color--base)",
+            "text": "var(--wp--preset--color--contrast)"
+        },
+        "elements": {
+            "link": {
+                "color": {
+                    "text": "var(--wp--prset--color--accent-2)"
+                }
+            }
+        },
+        "typography": {
+            "fontSize": "var(--wp--preset--font-size--medium)",
+            "fontFamily": "var(--wp--preset--font-family--system-fonts)",
+            "lineHeight": "1.7"
+        }
+        
+    
+    },
     "custom-templates": [],
     "templateParts": [] 
 }
